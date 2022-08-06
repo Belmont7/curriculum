@@ -1,0 +1,11 @@
+{
+    "name": "Portafolio/Curriculum de Jose Ali Belmont Arvizu",
+    "short_name": "PortafolioAliBelmont",
+    "description": "Los elementos de este portafolio son creaciones y propiedad del mismo autor",
+    "start_url": "/index.html",
+    "background_color": "#0598EC", 
+    "theme_color": "#0598EC", 
+    "orientation": "portrait", 
+    "display": "standalone"
+    
+}
